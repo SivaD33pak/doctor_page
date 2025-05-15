@@ -1394,7 +1394,7 @@ Padding(
                   ),
                 ),
               if (_selectedSegment == 1)
-                const Text('Comming Soon..',
+                const Text('Coming Soon..',
                     style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
